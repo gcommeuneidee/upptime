@@ -22,19 +22,19 @@
     "url": "https://www.barraco-construction.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.barraco-construction.com.ico",
     "slug": "barraco",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2463,
-    "timeDay": 2981,
-    "timeWeek": 2463,
-    "timeMonth": 2463,
-    "timeYear": 2463,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 6871,
+    "timeDay": 13741,
+    "timeWeek": 6871,
+    "timeMonth": 6871,
+    "timeYear": 6871,
     "dailyMinutesDown": {
-      "2022-11-23": 1
+      "2022-11-23": 24
     }
   },
   {
