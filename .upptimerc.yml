@@ -43,6 +43,8 @@ sites:
     url: https://weser.fr
   - name: Yona Design
     url: https://www.yona-design.com
+  - name: Test notification
+    url: https://www.test-notification.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -56,8 +58,6 @@ status-website:
   navbar:
     - title: Status
       href: /upptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
