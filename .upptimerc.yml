@@ -44,7 +44,7 @@ sites:
   - name: Yona Design
     url: https://www.yona-design.com
   - name: Test notification
-    url: https://www.test-notification.fr
+    url: https://www.google.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
