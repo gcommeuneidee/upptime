@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.barraco-construction.com.ico",
     "slug": "barraco",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.67%",
     "uptimeDay": "99.62%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 6141,
     "timeDay": 16382,
     "timeWeek": 6141,
@@ -334,11 +334,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/weser.fr.ico",
     "slug": "weser",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.62%",
     "uptimeDay": "99.67%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 3770,
     "timeDay": 3227,
     "timeWeek": 3770,
@@ -354,9 +354,9 @@
     "url": "https://www.yona-design.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yona-design.com.ico",
     "slug": "yona-design",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -365,6 +365,8 @@
     "timeWeek": 1818,
     "timeMonth": 1818,
     "timeYear": 1818,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 0
+    }
   }
 ]
