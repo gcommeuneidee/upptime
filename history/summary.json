@@ -261,9 +261,9 @@
     "url": "https://rotowash.fr",
     "icon": "https://icons.duckduckgo.com/ip3/rotowash.fr.ico",
     "slug": "rotowash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -272,7 +272,9 @@
     "timeWeek": 1709,
     "timeMonth": 1709,
     "timeYear": 1709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 0
+    }
   },
   {
     "name": "Saint-Ouen-les-Vignes",
