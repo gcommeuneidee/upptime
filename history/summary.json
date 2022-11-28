@@ -79,19 +79,19 @@
     "url": "https://www.lechasseursousmarin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lechasseursousmarin.com.ico",
     "slug": "chasseur-sous-marin",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1250,
-    "timeDay": 1418,
-    "timeWeek": 1250,
-    "timeMonth": 1250,
-    "timeYear": 1250,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1235,
+    "timeDay": 1229,
+    "timeWeek": 1235,
+    "timeMonth": 1235,
+    "timeYear": 1235,
     "dailyMinutesDown": {
-      "2022-11-28": 1
+      "2022-11-28": 8
     }
   },
   {
