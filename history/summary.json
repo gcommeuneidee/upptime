@@ -177,10 +177,10 @@
     "url": "https://laiterie-de-verneuil.com",
     "icon": "https://icons.duckduckgo.com/ip3/laiterie-de-verneuil.com.ico",
     "slug": "laiterie-de-verneuil",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 872,
@@ -188,7 +188,9 @@
     "timeWeek": 877,
     "timeMonth": 872,
     "timeYear": 872,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-15": 1
+    }
   },
   {
     "name": "Martin Fraudreau",
