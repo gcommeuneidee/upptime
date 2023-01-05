@@ -260,19 +260,19 @@
     "url": "https://phone-services.fr",
     "icon": "https://icons.duckduckgo.com/ip3/phone-services.fr.ico",
     "slug": "phone-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5077,
-    "timeDay": 9866,
-    "timeWeek": 5624,
-    "timeMonth": 4858,
-    "timeYear": 5077,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 5113,
+    "timeDay": 8899,
+    "timeWeek": 5773,
+    "timeMonth": 4922,
+    "timeYear": 5113,
     "dailyMinutesDown": {
-      "2023-01-05": 0
+      "2023-01-05": 5
     }
   },
   {
