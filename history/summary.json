@@ -260,18 +260,20 @@
     "url": "https://phone-services.fr",
     "icon": "https://icons.duckduckgo.com/ip3/phone-services.fr.ico",
     "slug": "phone-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4876,
-    "timeDay": 4390,
-    "timeWeek": 4236,
-    "timeMonth": 4520,
-    "timeYear": 4876,
-    "dailyMinutesDown": {}
+    "time": 5077,
+    "timeDay": 9866,
+    "timeWeek": 5624,
+    "timeMonth": 4858,
+    "timeYear": 5077,
+    "dailyMinutesDown": {
+      "2023-01-05": 0
+    }
   },
   {
     "name": "RDV Internet",
