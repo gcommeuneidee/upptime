@@ -44,8 +44,7 @@ sites:
   - name: Yona Design
     url: $YONA_DESIGN
   - name: Test notification
-    url: https://example.com/
-    maxResponseTime: 10
+    url: https://text-notification.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
