@@ -440,9 +440,9 @@
     "slug": "test-notification",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "2.30%",
-    "uptimeWeek": "2.30%",
-    "uptimeMonth": "2.30%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
     "uptimeYear": "0.00%",
     "time": 285,
     "timeDay": 0,
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2023-01-16": 0,
+      "2023-01-16": 1,
       "2022-11-25": 118
     }
   }
