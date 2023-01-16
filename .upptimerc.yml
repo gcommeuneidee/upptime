@@ -4,45 +4,48 @@ repo: upptime # The name of this repository
 
 sites:
   - name: AuPetit IP
-    url: https://aupetitip.fr
+    url: $AUPETIT_IP
   - name: Barraco
-    url: https://www.barraco-construction.com
+    url: $BARRACO
   - name: Beemotion
-    url: https://www.beemotion.eu
+    url: $BEEMOTION
   - name: Burotic
-    url: https://www.burotic.fr
+    url: $BUROTIC
   - name: Chasseur sous-marin
-    url: https://www.lechasseursousmarin.com
+    url: $CHASSEUR_SOUS_MARIN
   - name: Convergens
-    url: https://www.convergens-avocats.fr
+    url: $CONVERGENS
   - name: Domaine de Poulaines
-    url: https://www.domaine-poulaines.com
+    url: $DOMAINE_POULAINES
   - name: G comme une idée
-    url: https://www.gcommeuneidee.com
+    url: $G_COMME_UNE_IDEE
   - name: Gardon Mollard
-    url: https://gardon-mollard-guillaume.chirurgiens-dentistes.fr
+    url: $GARDON_MOLLARD
   - name: Laiterie de Verneuil
-    url: https://laiterie-de-verneuil.com
+    url: $LAITERIE_VERNEUIL
   - name: Martin Fraudreau
-    url: https://www.martinfraudreau.com
+    url: $MARTIN_FRAUDREAU
   - name: Orgasoftware
-    url: https://orgasoftware.com
+    url: $ORGASOFTWARE
   - name: Phone Services
-    url: https://phone-services.fr
+    url: $PHONE_SERVICES
   - name: RDV Internet
-    url: https://www.rdvinternet.fr
+    url: $RDVINTERNET
   - name: Rotowash
-    url: https://rotowash.fr
+    url: $ROTOWASH
   - name: Saint-Ouen-les-Vignes
-    url: https://www.saint-ouen-les-vignes.fr
+    url: $SAINT_OUEN_LES_VIGNES
   - name: Sennegon
-    url: https://www.sennegon.com
+    url: $SENNEGON
   - name: Tours Métropole Basket
-    url: https://toursmetropolebasket.com
+    url: $TOURS_METROPOLE_BASKET
   - name: Weser
-    url: https://weser.fr
+    url: $WESER
   - name: Yona Design
-    url: https://www.yona-design.com
+    url: $YONA_DESIGN
+  - name: Test notification
+    url: $YONA_DESIGN
+    maxResponseTime: 100
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
