@@ -443,19 +443,19 @@
     "url": "$YONA_DESIGN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yona-design",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 1654,
-    "timeDay": 1307,
-    "timeWeek": 1467,
-    "timeMonth": 1553,
+    "timeDay": 1442,
+    "timeWeek": 1494,
+    "timeMonth": 1556,
     "timeYear": 1654,
     "dailyMinutesDown": {
-      "2023-01-23": 0,
+      "2023-01-23": 5,
       "2022-11-27": 32
     }
   }
