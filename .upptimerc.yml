@@ -21,6 +21,8 @@ sites:
     url: $G_COMME_UNE_IDEE
   - name: Gardon Mollard
     url: $GARDON_MOLLARD
+  - name: Gedo Permanence
+    url: $GEDO_PERMANENCE
   - name: Laiterie de Verneuil
     url: $LAITERIE_VERNEUIL
   - name: Martin Fraudreau
