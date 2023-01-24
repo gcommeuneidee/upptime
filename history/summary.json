@@ -160,10 +160,10 @@
     "url": "$G_COMME_UNE_IDEE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "g-comme-une-idee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1078,
@@ -171,7 +171,9 @@
     "timeWeek": 1102,
     "timeMonth": 1055,
     "timeYear": 1078,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-24": 1
+    }
   },
   {
     "name": "Gardon Mollard",
