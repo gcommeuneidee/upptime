@@ -121,19 +121,19 @@
     "url": "$CONVERGENS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "convergens",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1938,
-    "timeDay": 1687,
-    "timeWeek": 1986,
-    "timeMonth": 1932,
-    "timeYear": 1938,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 2056,
+    "timeDay": 7049,
+    "timeWeek": 3144,
+    "timeMonth": 2146,
+    "timeYear": 2056,
     "dailyMinutesDown": {
-      "2023-01-25": 7
+      "2023-01-25": 16
     }
   },
   {
@@ -203,18 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gedo-permanence",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.44%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 1285,
     "timeDay": 1142,
     "timeWeek": 1285,
     "timeMonth": 1285,
     "timeYear": 1285,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 16
     }
   },
   {
@@ -329,18 +329,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdv-internet",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 950,
     "timeDay": 903,
     "timeWeek": 918,
     "timeMonth": 939,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2023-01-25": 2,
+      "2023-01-25": 12,
       "2022-11-21": 5
     }
   },
@@ -411,19 +411,19 @@
     "url": "$TOURS_METROPOLE_BASKET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tours-metropole-basket",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1932,
-    "timeDay": 2034,
-    "timeWeek": 2089,
-    "timeMonth": 2021,
-    "timeYear": 1932,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1969,
+    "timeDay": 3657,
+    "timeWeek": 2443,
+    "timeMonth": 2088,
+    "timeYear": 1969,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 11
     }
   },
   {
