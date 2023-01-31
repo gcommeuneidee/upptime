@@ -56,7 +56,7 @@ status-website:
   introTitle: "Moniteur de disponibilité et page de statut utilisant **Upptime**."
   introMessage: "Il s'agit d'une page de statut qui utilise des données **en temps réel** de notre [référenciel](https://github.com/gcommeuneidee/upptime)."
   navbar:
-    - title: Status
+    - title: Statut
       href: /upptime
 
 i18n:
@@ -119,3 +119,18 @@ i18n:
   duration30D: 30j
   duration1Y: 1a
   durationAll: max
+  status: Statut
+  history: Historique
+  uptime: Disponibilité
+  responseTime: Temps de réponse
+  responseTimeDay: Temps de réponse sur 24 heures
+  responseTimeWeek: Temps de réponse sur 7 jours
+  responseTimeMonth: Temps de réponse sur 30 jours
+  responseTimeYear: Temps de réponse sur 1 an
+  uptimeDay: Disponibilité sur 24 heures
+  uptimeWeek: Disponibilité sur 7 jours
+  uptimeMonth: Disponibilité sur 30 jours
+  uptimeYear: Disponibilité sur 1 an
+  degradedPerformance: 🟨 Performances dégradées
+  completeOutage: 🟥 Panne totale
+  partialOutage: 🟧 Panne partielle
