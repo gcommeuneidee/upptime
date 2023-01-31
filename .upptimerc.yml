@@ -115,3 +115,7 @@ i18n:
   durationMin: $DURATION minutes
   incidentCompleted: Terminé
   incidentScheduled: Planifié
+  duration7D: 7j
+  duration30D: 30j
+  duration1Y: 1a
+  durationAll: max
