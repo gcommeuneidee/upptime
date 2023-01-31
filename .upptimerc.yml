@@ -51,13 +51,67 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://www.gcommeuneidee.com/wp-content/themes/gcommeuneidee/svg/logo.svg
+  name: G comme une idée
+  introTitle: "Moniteur de disponibilité et page de statut utilisant **Upptime**."
+  introMessage: "Il s'agit d'une page de statut qui utilise des données **en temps réel** de notre [référenciel](https://github.com/gcommeuneidee/upptime)."
   navbar:
     - title: Status
       href: /upptime
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: Incidents en cours
+  allSystemsOperational: Tous les systèmes sont opérationnels
+  incidentReport: "Rapport d'incident #$NUMBER →"
+  activeIncidentSummary: Ouvert le $DATE avec $POSTS commentaires
+  incidentTitle: "Détails de l'incident $NUMBER"
+  incidentDetails: "Détails de l'incident"
+  incidentFixed: Corrigé
+  incidentOngoing: En cours
+  incidentOpenedAt: Ouvert le
+  incidentClosedAt: Fermé le
+  incidentViewOnGitHub: "Voir et s'abonner sur GitHub"
+  incidentCommentSummary: Publié le $DATE par $AUTHOR
+  incidentBack: ← Retour à tous les incidents
+  pastIncidents: Incidents passés
+  pastIncidentsResolved: Résolu en $MINUTES minutes avec $POSTS commentaires
+  liveStatus: Statut actuel
+  overallUptime: "Disponibilité globale : $UPTIME"
+  overallUptimeTitle: Disponibilité globale
+  averageResponseTime: "Temps de réponse moyen : $TIMEms"
+  averageResponseTimeTitle: Réponse moyenne
+  sevelDayResponseTime: Temps de réponse sur 7 jours
+  responseTimeMs: Temps de réponse (ms)
+  up: En ligne
+  down: Hors ligne
+  degraded: Dégradé
+  ms: ms
+  loading: Chargement
+  navGitHub: GitHub
+  footer: cette page est [open-source]($REPO), propulsée par [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Limite de requête dépassée
+  rateLimitExceededIntro: "Vous avez dépassé le nombre de requêtes que vous pouvez faire en une heure, vous devrez donc attendre avant d'accéder à nouveau à ce site Web. Alternativement, vous pouvez ajouter un Jeton d'Accès Personnel GitHub pour continuer à utiliser ce site Web."
+  rateLimitExceededWhatDoesErrorMean: Que signifie cette erreur ?
+  rateLimitExceededErrorMeaning: "Ce site Web utilise l'API GitHub pour accéder à des données en temps réel sur le statut de nos sites Web. Par défaut, GitHub autorise 60 requêtes par heure par adresse IP, que vous avez consommées.
+  rateLimitExceededErrorHowCanFix: Comment puis-je résoudre ce problème ?
+  rateLimitExceededErrorFix: "Vous pouvez attendre encore une heure et la limite de votre adresse IP sera restaurée. Alternativement, vous pouvez ajouter votre Jeton d'Accès Personnel GitHub, ce qui vous donne 5 000 requêtes supplémentaires par heure."
+  rateLimitExceededGeneratePAT: "Apprenez à générer un Jeton d'Accès Personnel"
+  rateLimitExceededHasSet: "Vous avec un jeton d'accès personnel défini."
+  rateLimitExceededRemoveToken: Supprimer le jeton
+  rateLimitExceededGitHubPAT: "Jeton d'Accès Personnel GitHub"
+  rateLimitExceededCopyPastePAT: Copiez et collez votre jeton
+  rateLimitExceededSaveToken: Enregistrer le jeton
+  errorTitle: "Une erreur s'est produite"
+  errorIntro: "Une erreur s'est produite lors de la tentative d'obtention des derniers détails du statut."
+  errorText: Vous pouvez réessayer dans quelques instants.
+  errorHome: "Retourner sur la page d'accueil"
+  pastScheduledMaintenance: Maintenance planifiée passée
+  scheduledMaintenance: Maintenance planifiée
+  scheduledMaintenanceSummaryStarted: Commencé le $DATE pour $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Commence le $DATE pour $DURATION minutes
+  startedAt: Commencé le
+  startsAt: Commence le
+  duration: Durée
+  durationMin: $DURATION minutes
+  incidentCompleted: Terminé
+  incidentScheduled: Planifié
