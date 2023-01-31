@@ -47,11 +47,8 @@ sites:
     url: $YONA_DESIGN
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://www.gcommeuneidee.com/wp-content/themes/gcommeuneidee/svg/logo.svg
+  logoUrl: https://www.gcommeuneidee.com/wp-content/themes/gcommeuneidee/apple-touch-icon.png
   name: G comme une idée
   introTitle: "Moniteur de disponibilité et page de statut utilisant **Upptime**."
   introMessage: "Il s'agit d'une page de statut qui utilise des données **en temps réel** de notre [référenciel](https://github.com/gcommeuneidee/upptime)."
