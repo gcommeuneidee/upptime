@@ -48,7 +48,7 @@ sites:
 
 status-website:
   baseUrl: /upptime
-  logoUrl: https://gcommeuneidee.github.io/upptime/apple-touch-icon.png
+  logoUrl: https://raw.githubusercontent.com/gcommeuneidee/upptime/master/assets/apple-touch-icon.png
   name: G comme une idée
   introTitle: "Moniteur de disponibilité et page de statut utilisant **Upptime**."
   introMessage: "Il s'agit d'une page de statut qui utilise des données **en temps réel** de notre [référenciel](https://github.com/gcommeuneidee/upptime)."
