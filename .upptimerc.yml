@@ -11,6 +11,8 @@ sites:
     url: $BEEMOTION
   - name: Burotic
     url: $BUROTIC
+  - name: Cangey
+    url: $CANGEY
   - name: Chasseur sous-marin
     url: $CHASSEUR_SOUS_MARIN
   - name: Convergens
@@ -23,6 +25,8 @@ sites:
     url: $GARDON_MOLLARD
   - name: Gedo Permanence
     url: $GEDO_PERMANENCE
+  - name: HandiMobile37
+    url: $HANDIMOBILE
   - name: Laiterie de Verneuil
     url: $LAITERIE_VERNEUIL
   - name: Martin Fraudreau
