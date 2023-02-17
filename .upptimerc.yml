@@ -15,6 +15,8 @@ sites:
     url: $CANGEY
   - name: Chasseur sous-marin
     url: $CHASSEUR_SOUS_MARIN
+  - name: Comité Handisport
+    url: $COMITE_HANDISPORT
   - name: Convergens
     url: $CONVERGENS
   - name: Domaine de Poulaines
@@ -31,6 +33,8 @@ sites:
     url: $LAITERIE_VERNEUIL
   - name: Martin Fraudreau
     url: $MARTIN_FRAUDREAU
+  - name: Modern Music Academy
+    url: $MODERN_MUSIC_ACADEMY
   - name: Orgasoftware
     url: $ORGASOFTWARE
   - name: Phone Services
