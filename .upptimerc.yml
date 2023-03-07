@@ -29,6 +29,8 @@ sites:
     url: $GEDO_PERMANENCE
   - name: HandiMobile37
     url: $HANDIMOBILE
+  - name: Kanyon Consulting
+    url: $KANYON_CONSULTING
   - name: Laiterie de Verneuil
     url: $LAITERIE_VERNEUIL
   - name: Martin Fraudreau
