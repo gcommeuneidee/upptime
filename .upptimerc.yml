@@ -49,8 +49,6 @@ sites:
     url: $SAINT_OUEN_LES_VIGNES
   - name: Sennegon
     url: $SENNEGON
-  - name: Tours Métropole Basket
-    url: $TOURS_METROPOLE_BASKET
   - name: Weser
     url: $WESER
   - name: Yona Design
