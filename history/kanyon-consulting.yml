@@ -1,7 +1,7 @@
 url: $KANYON_CONSULTING
-status: down
-code: 500
-responseTime: 649
-lastUpdated: 2023-03-09T08:47:41.842Z
+status: up
+code: 200
+responseTime: 2700
+lastUpdated: 2023-03-09T08:53:40.518Z
 startTime: Tue Mar 07 2023 10:16:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
