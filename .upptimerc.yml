@@ -39,8 +39,6 @@ sites:
     url: $MODERN_MUSIC_ACADEMY
   - name: Numaterra
     url: $NUMATERRA
-  - name: Orgasoftware
-    url: $ORGASOFTWARE
   - name: Phone Services
     url: $PHONE_SERVICES
   - name: RDV Internet
