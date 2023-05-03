@@ -1,7 +1,7 @@
 url: $CONVERGENS
-status: down
-code: 500
-responseTime: 14357
-lastUpdated: 2023-05-03T05:24:12.080Z
+status: up
+code: 200
+responseTime: 14610
+lastUpdated: 2023-05-03T05:29:26.510Z
 startTime: Mon Nov 21 2022 09:45:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
