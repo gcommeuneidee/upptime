@@ -13,7 +13,7 @@
     "time": 1481,
     "timeDay": 1374,
     "timeWeek": 1699,
-    "timeMonth": 1665,
+    "timeMonth": 1673,
     "timeYear": 1481,
     "dailyMinutesDown": {
       "2023-04-04": 6,
@@ -31,18 +31,19 @@
     "url": "$BARRACO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "barraco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.77%",
     "time": 4737,
     "timeDay": 2425,
     "timeWeek": 6756,
-    "timeMonth": 6821,
+    "timeMonth": 6931,
     "timeYear": 4737,
     "dailyMinutesDown": {
+      "2023-05-17": 1,
       "2023-05-14": 24,
       "2023-05-06": 9,
       "2023-05-01": 16,
@@ -98,7 +99,7 @@
     "time": 1887,
     "timeDay": 1214,
     "timeWeek": 1874,
-    "timeMonth": 1786,
+    "timeMonth": 1805,
     "timeYear": 1887,
     "dailyMinutesDown": {
       "2023-04-21": 6,
@@ -124,7 +125,7 @@
     "time": 2982,
     "timeDay": 2120,
     "timeWeek": 2325,
-    "timeMonth": 2540,
+    "timeMonth": 2531,
     "timeYear": 2982,
     "dailyMinutesDown": {
       "2023-05-08": 6,
@@ -153,7 +154,7 @@
     "time": 1685,
     "timeDay": 1252,
     "timeWeek": 1634,
-    "timeMonth": 1788,
+    "timeMonth": 1813,
     "timeYear": 1685,
     "dailyMinutesDown": {
       "2023-03-02": 6,
@@ -174,7 +175,7 @@
     "time": 1334,
     "timeDay": 924,
     "timeWeek": 1225,
-    "timeMonth": 1213,
+    "timeMonth": 1223,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2023-05-12": 5,
@@ -210,7 +211,7 @@
     "time": 2165,
     "timeDay": 2225,
     "timeWeek": 2195,
-    "timeMonth": 2185,
+    "timeMonth": 2176,
     "timeYear": 2165,
     "dailyMinutesDown": {
       "2023-04-16": 21,
@@ -231,7 +232,7 @@
     "time": 2513,
     "timeDay": 1277,
     "timeWeek": 1923,
-    "timeMonth": 3165,
+    "timeMonth": 3180,
     "timeYear": 2513,
     "dailyMinutesDown": {
       "2023-05-04": 5,
@@ -256,7 +257,7 @@
     "time": 1708,
     "timeDay": 2057,
     "timeWeek": 4655,
-    "timeMonth": 4855,
+    "timeMonth": 4945,
     "timeYear": 1708,
     "dailyMinutesDown": {
       "2023-04-16": 5,
@@ -282,7 +283,7 @@
     "time": 1064,
     "timeDay": 862,
     "timeWeek": 1069,
-    "timeMonth": 1114,
+    "timeMonth": 1125,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2023-03-23": 6,
@@ -305,7 +306,7 @@
     "time": 3571,
     "timeDay": 2499,
     "timeWeek": 3298,
-    "timeMonth": 3470,
+    "timeMonth": 3473,
     "timeYear": 3571,
     "dailyMinutesDown": {
       "2023-04-26": 11,
@@ -332,7 +333,7 @@
     "time": 1173,
     "timeDay": 729,
     "timeWeek": 1015,
-    "timeMonth": 1035,
+    "timeMonth": 1041,
     "timeYear": 1173,
     "dailyMinutesDown": {
       "2023-02-06": 16,
@@ -353,7 +354,7 @@
     "time": 1429,
     "timeDay": 1142,
     "timeWeek": 1183,
-    "timeMonth": 1429,
+    "timeMonth": 1436,
     "timeYear": 1429,
     "dailyMinutesDown": {
       "2023-05-11": 18,
@@ -377,7 +378,7 @@
     "time": 3343,
     "timeDay": 2826,
     "timeWeek": 3519,
-    "timeMonth": 3661,
+    "timeMonth": 3700,
     "timeYear": 3343,
     "dailyMinutesDown": {
       "2023-04-24": 19,
@@ -398,7 +399,7 @@
     "time": 877,
     "timeDay": 717,
     "timeWeek": 912,
-    "timeMonth": 882,
+    "timeMonth": 887,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2023-04-24": 6,
@@ -423,7 +424,7 @@
     "time": 2306,
     "timeDay": 1309,
     "timeWeek": 1997,
-    "timeMonth": 2350,
+    "timeMonth": 2326,
     "timeYear": 2306,
     "dailyMinutesDown": {
       "2023-04-25": 15,
@@ -447,7 +448,7 @@
     "time": 1580,
     "timeDay": 1387,
     "timeWeek": 1654,
-    "timeMonth": 1638,
+    "timeMonth": 1640,
     "timeYear": 1580,
     "dailyMinutesDown": {
       "2023-05-15": 5,
@@ -468,7 +469,7 @@
     "time": 992,
     "timeDay": 676,
     "timeWeek": 954,
-    "timeMonth": 995,
+    "timeMonth": 997,
     "timeYear": 992,
     "dailyMinutesDown": {}
   },
@@ -486,7 +487,7 @@
     "time": 5576,
     "timeDay": 2712,
     "timeWeek": 3195,
-    "timeMonth": 3488,
+    "timeMonth": 3459,
     "timeYear": 5576,
     "dailyMinutesDown": {
       "2023-04-19": 26,
@@ -511,7 +512,7 @@
     "time": 976,
     "timeDay": 746,
     "timeWeek": 923,
-    "timeMonth": 917,
+    "timeMonth": 922,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2023-01-25": 80,
@@ -532,7 +533,7 @@
     "time": 1871,
     "timeDay": 1202,
     "timeWeek": 1587,
-    "timeMonth": 1714,
+    "timeMonth": 1717,
     "timeYear": 1871,
     "dailyMinutesDown": {
       "2023-05-01": 5,
@@ -557,15 +558,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "saint-ouen-les-vignes",
     "status": "up",
-    "uptime": "96.63%",
+    "uptime": "96.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.63%",
+    "uptimeYear": "96.64%",
     "time": 934,
     "timeDay": 685,
     "timeWeek": 935,
-    "timeMonth": 911,
+    "timeMonth": 917,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2023-02-13": 682,
@@ -591,7 +592,7 @@
     "time": 1993,
     "timeDay": 1842,
     "timeWeek": 2480,
-    "timeMonth": 2087,
+    "timeMonth": 2093,
     "timeYear": 1993,
     "dailyMinutesDown": {
       "2023-02-21": 60,
@@ -613,7 +614,7 @@
     "time": 3039,
     "timeDay": 2418,
     "timeWeek": 3123,
-    "timeMonth": 3090,
+    "timeMonth": 3112,
     "timeYear": 3039,
     "dailyMinutesDown": {
       "2023-02-07": 4,
@@ -638,7 +639,7 @@
     "time": 1647,
     "timeDay": 749,
     "timeWeek": 1367,
-    "timeMonth": 1696,
+    "timeMonth": 1692,
     "timeYear": 1647,
     "dailyMinutesDown": {
       "2023-05-01": 29,
