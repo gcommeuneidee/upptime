@@ -43,6 +43,10 @@ sites:
     url: $PHONE_SERVICES
   - name: RDV Internet
     url: $RDVINTERNET
+  - name: Resallience
+    url: $RESALLIENCE
+  - name: Restaurant Les Jardiniers
+    url: $RESTAURANT_LES_JARDINIERS
   - name: Rotowash
     url: $ROTOWASH
   - name: Saint-Ouen-les-Vignes
