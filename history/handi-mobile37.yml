@@ -1,7 +1,7 @@
 url: $HANDIMOBILE
-status: up
-code: 200
-responseTime: 1794
-lastUpdated: 2023-06-06T23:10:57.287Z
+status: down
+code: 500
+responseTime: 10527
+lastUpdated: 2023-06-07T11:09:02.896Z
 startTime: Wed Feb 15 2023 12:41:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
