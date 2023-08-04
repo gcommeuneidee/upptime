@@ -1,7 +1,7 @@
 url: $RESTAURANT_LES_JARDINIERS
-status: up
-code: 200
-responseTime: 4837
-lastUpdated: 2023-08-04T02:39:58.236Z
+status: down
+code: 503
+responseTime: 772
+lastUpdated: 2023-08-04T06:09:28.092Z
 startTime: Mon Jun 05 2023 15:29:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
