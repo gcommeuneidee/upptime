@@ -1,7 +1,7 @@
 url: $GEDO_PERMANENCE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-04T20:21:22.408Z
+status: up
+code: 200
+responseTime: 1061
+lastUpdated: 2023-09-04T20:32:22.807Z
 startTime: 2023-01-23T09:01:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
