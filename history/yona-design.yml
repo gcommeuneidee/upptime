@@ -1,7 +1,7 @@
 url: $YONA_DESIGN
-status: up
-code: 200
-responseTime: 827
-lastUpdated: 2023-12-17T23:11:29.040Z
+status: down
+code: 500
+responseTime: 607
+lastUpdated: 2023-12-18T12:59:36.457Z
 startTime: 2022-11-21T09:46:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
