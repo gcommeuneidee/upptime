@@ -1,7 +1,7 @@
 url: $DOMAINE_POULAINES
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-29T15:32:22.624Z
+status: up
+code: 200
+responseTime: 4273
+lastUpdated: 2023-12-29T15:46:46.296Z
 startTime: 2022-11-21T09:45:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
