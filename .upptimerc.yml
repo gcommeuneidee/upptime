@@ -9,6 +9,8 @@ sites:
     url: $AGENCE_CMS
   - name: AuPetit IP
     url: $AUPETIT_IP
+  - name: Alterpaint
+    url: $ALTERPAINT
   - name: Barraco
     url: $BARRACO
   - name: Beemotion
