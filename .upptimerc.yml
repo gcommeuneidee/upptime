@@ -49,8 +49,6 @@ sites:
     url: $NUMATERRA
   - name: Phone Services
     url: $PHONE_SERVICES
-  - name: ProbeeCy
-    url: $PROBEECY
   - name: RDV Internet
     url: $RDVINTERNET
   - name: Resallience
