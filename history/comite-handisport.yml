@@ -1,7 +1,7 @@
 url: $COMITE_HANDISPORT
-status: down
-code: 503
-responseTime: 8631
-lastUpdated: 2024-02-19T22:47:24.960Z
+status: up
+code: 200
+responseTime: 2940
+lastUpdated: 2024-02-19T23:06:45.061Z
 startTime: 2023-02-17T11:09:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
