@@ -9,6 +9,8 @@ sites:
     url: $AGENCE_CMS
   - name: ARAPI Autisme
     url: $ARAPI_SITE
+  - name: ARAPI Gestion
+    url: $ARAPI_GESTION
   - name: ARAPI Université
     url: $ARAPI_UA
   - name: AuPetit IP
