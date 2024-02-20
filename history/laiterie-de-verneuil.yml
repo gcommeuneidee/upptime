@@ -1,7 +1,7 @@
 url: $LAITERIE_VERNEUIL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-20T07:08:59.018Z
+status: up
+code: 200
+responseTime: 1157
+lastUpdated: 2024-02-20T07:21:18.459Z
 startTime: 2022-11-21T09:45:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
