@@ -7,6 +7,10 @@ sites:
     url : $ACADEMIE_TRUFFE
   - name: Agence CMS
     url: $AGENCE_CMS
+  - name: ARAPI Autisme
+    url: $ARAPI_SITE
+  - name: ARAPI Université
+    url: $ARAPI_UA
   - name: AuPetit IP
     url: $AUPETIT_IP
   - name: Alterpaint
