@@ -49,8 +49,6 @@ sites:
     url: $LAITERIE_VERNEUIL
   - name: Martin Fraudreau
     url: $MARTIN_FRAUDREAU
-  - name: Modern Music Academy
-    url: $MODERN_MUSIC_ACADEMY
   - name: Numaterra
     url: $NUMATERRA
   - name: Phone Services
