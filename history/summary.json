@@ -162,7 +162,7 @@
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "98.88%",
     "time": 3209,
     "timeDay": 2122,
@@ -522,10 +522,10 @@
     "url": "$DEGRAV_AGRI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "degrav-agri",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 1009,
@@ -534,6 +534,7 @@
     "timeMonth": 1027,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2024-02-23": 1,
       "2024-02-19": 38,
       "2024-01-17": 13
     }
