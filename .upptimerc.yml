@@ -5,72 +5,106 @@ repo: upptime # The name of this repository
 sites:
   - name: Académie de la Truffe
     url : $ACADEMIE_TRUFFE
-  - name: Actionnaire
+    __dangerous__body_down_if_text_missing: 'Académie de la Truffe'
+  - name: Actionnaires
     url : $ACTIONNAIRES
+    __dangerous__body_down_if_text_missing: 'Site des actionnaires'
   - name: Agence CMS
     url: $AGENCE_CMS
+    __dangerous__body_down_if_text_missing: 'Agence CMS'
   - name: ARAPI Autisme
     url: $ARAPI_SITE
+    __dangerous__body_down_if_text_missing: 'ARAPI Autisme'
   - name: ARAPI Gestion
     url: $ARAPI_GESTION
+    __dangerous__body_down_if_text_missing: 'Identifiant'
   - name: ARAPI Université
     url: $ARAPI_UA
+    __dangerous__body_down_if_text_missing: 'ARAPI Université'
   - name: AuPetit IP
     url: $AUPETIT_IP
+    __dangerous__body_down_if_text_missing: 'AuPetit IP'
   - name: Alterpaint
     url: $ALTERPAINT
+    __dangerous__body_down_if_text_missing: 'Alterpaint'
   - name: Barraco
     url: $BARRACO
+    __dangerous__body_down_if_text_missing: 'Barraco'
   - name: Beemotion
     url: $BEEMOTION
+    __dangerous__body_down_if_text_missing: 'Beemotion'
   - name: Burotic
     url: $BUROTIC
+    __dangerous__body_down_if_text_missing: 'Burotic'
   - name: Cangey
     url: $CANGEY
+    __dangerous__body_down_if_text_missing: 'Cangey'
   - name: Chasseur sous-marin
     url: $CHASSEUR_SOUS_MARIN
+    __dangerous__body_down_if_text_missing: 'sous-marine'
   - name: Comité Handisport
     url: $COMITE_HANDISPORT
+    __dangerous__body_down_if_text_missing: 'Handisport'
   - name: Convergens
     url: $CONVERGENS
+    __dangerous__body_down_if_text_missing: 'Accueil - Convergens'
   - name: Degrav'Agri
     url: $DEGRAV_AGRI
+    __dangerous__body_down_if_text_missing: 'Degrav&#039;Agri'
   - name: Domaine de Poulaines
     url: $DOMAINE_POULAINES
+    __dangerous__body_down_if_text_missing: 'Domaine de Poulaines'
   - name: G comme une idée
     url: $G_COMME_UNE_IDEE
+    __dangerous__body_down_if_text_missing: 'G comme une idée'
   - name: Gardon Mollard
     url: $GARDON_MOLLARD
+    __dangerous__body_down_if_text_missing: 'Gardon-Mollard'
   - name: Gedo Permanence
     url: $GEDO_PERMANENCE
+    __dangerous__body_down_if_text_missing: 'Gedo Permanence'
   - name: HandiMobile37
     url: $HANDIMOBILE
+    __dangerous__body_down_if_text_missing: 'Handi Mobile'
   - name: Kanyon Consulting
     url: $KANYON_CONSULTING
+    __dangerous__body_down_if_text_missing: 'Kanyon Consulting'
   - name: Laiterie de Verneuil
     url: $LAITERIE_VERNEUIL
+    __dangerous__body_down_if_text_missing: 'Laiterie Verneuil'
   - name: Martin Fraudreau
     url: $MARTIN_FRAUDREAU
+    __dangerous__body_down_if_text_missing: 'Martin Fraudreau'
   - name: Numaterra
     url: $NUMATERRA
+    __dangerous__body_down_if_text_missing: 'Numaterra'
   - name: Phone Services
     url: $PHONE_SERVICES
+    __dangerous__body_down_if_text_missing: 'Phone Services'
   - name: RDV Internet
     url: $RDVINTERNET
+    __dangerous__body_down_if_text_missing: 'RDV Internet'
   - name: Resallience
     url: $RESALLIENCE
+    __dangerous__body_down_if_text_missing: 'Resallience'
   - name: Restaurant Les Jardiniers
     url: $RESTAURANT_LES_JARDINIERS
+    __dangerous__body_down_if_text_missing: 'Les Jardiniers'
   - name: Rotowash
     url: $ROTOWASH
+    __dangerous__body_down_if_text_missing: 'Rotowash'
   - name: Saint-Ouen-les-Vignes
     url: $SAINT_OUEN_LES_VIGNES
+    __dangerous__body_down_if_text_missing: 'Saint-Ouen-les-Vignes'
   - name: Sennegon
     url: $SENNEGON
+    __dangerous__body_down_if_text_missing: 'Sennegon'
   - name: Weser
     url: $WESER
+    __dangerous__body_down_if_text_missing: 'Weser'
   - name: Yona Design
     url: $YONA_DESIGN
+    __dangerous__body_down_if_text_missing: 'Yona Design'
 
 status-website:
   baseUrl: /upptime
@@ -157,6 +191,7 @@ i18n:
   degradedPerformance: 🟨 Performances dégradées
   completeOutage: 🟥 Panne totale
   partialOutage: 🟧 Panne partielle
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
