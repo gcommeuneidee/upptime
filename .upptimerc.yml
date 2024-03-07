@@ -23,7 +23,7 @@ sites:
     __dangerous__body_down_if_text_missing: 'ARAPI Université'
   - name: AuPetit IP
     url: $AUPETIT_IP
-    __dangerous__body_down_if_text_missing: 'AuPetit IP'
+    __dangerous__body_down_if_text_missing: 'AUPETIT IP'
   - name: Alterpaint
     url: $ALTERPAINT
     __dangerous__body_down_if_text_missing: 'Alterpaint'
