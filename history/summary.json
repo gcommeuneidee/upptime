@@ -294,11 +294,11 @@
     "url": "$BUROTIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "burotic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "96.99%",
+    "uptimeDay": "96.93%",
     "uptimeWeek": "96.73%",
-    "uptimeMonth": "98.85%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "99.68%",
     "time": 3903,
     "timeDay": 3082,
@@ -306,7 +306,7 @@
     "timeMonth": 5684,
     "timeYear": 4148,
     "dailyMinutesDown": {
-      "2024-03-12": 42,
+      "2024-03-12": 43,
       "2024-03-10": 196,
       "2024-03-09": 35,
       "2024-03-07": 20,
@@ -373,8 +373,7 @@
       "2023-10-15": 17,
       "2023-10-14": 14,
       "2023-10-12": 6,
-      "2023-10-11": 13,
-      "2023-10-10": 13
+      "2023-10-11": 13
     }
   },
   {
