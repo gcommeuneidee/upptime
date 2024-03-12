@@ -98,10 +98,10 @@
     "url": "$ARAPI_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "arapi-autisme",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3723,
@@ -109,7 +109,9 @@
     "timeWeek": 4133,
     "timeMonth": 3723,
     "timeYear": 3723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-12": 1
+    }
   },
   {
     "name": "ARAPI Gestion",
@@ -665,12 +667,12 @@
     "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "95.79%",
     "time": 1202,
     "timeDay": 1001,
     "timeWeek": 778,
-    "timeMonth": 1095,
+    "timeMonth": 1107,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2024-02-21": 11,
@@ -743,12 +745,12 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
     "time": 930,
     "timeDay": 1121,
-    "timeWeek": 1562,
+    "timeWeek": 869,
     "timeMonth": 1513,
     "timeYear": 953,
     "dailyMinutesDown": {
