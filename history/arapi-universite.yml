@@ -1,7 +1,7 @@
 url: $ARAPI_UA
-status: down
-code: 503
-responseTime: 410
-lastUpdated: 2024-03-21T20:46:45.443Z
+status: up
+code: 200
+responseTime: 1074
+lastUpdated: 2024-03-21T21:07:24.623Z
 startTime: 2024-02-20T14:50:52.091Z
 generator: Upptime <https://github.com/upptime/upptime>
