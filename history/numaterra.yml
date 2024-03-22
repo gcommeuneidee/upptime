@@ -1,7 +1,7 @@
 url: $NUMATERRA
-status: down
-code: 502
-responseTime: 639
-lastUpdated: 2024-03-22T01:34:35.075Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2024-03-22T02:05:46.745Z
 startTime: 2023-04-12T15:13:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
