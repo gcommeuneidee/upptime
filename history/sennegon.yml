@@ -1,7 +1,7 @@
 url: $SENNEGON
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-25T10:27:43.127Z
+status: up
+code: 200
+responseTime: 717
+lastUpdated: 2024-03-25T10:33:44.797Z
 startTime: 2022-11-21T09:46:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
