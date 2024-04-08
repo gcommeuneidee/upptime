@@ -65,6 +65,9 @@ sites:
     __dangerous__body_down_if_text_missing: 'Gedo Permanence'
   - name: HandiMobile37
     url: $HANDIMOBILE
+    __dangerous__body_down_if_text_missing: 'Inovamed'
+  - name: Inovamed
+    url: $INOVAMED
     __dangerous__body_down_if_text_missing: 'Handi Mobile'
   - name: Kanyon Consulting
     url: $KANYON_CONSULTING
