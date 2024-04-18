@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.34%",
     "uptimeDay": "98.99%",
-    "uptimeWeek": "99.21%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.34%",
     "time": 1869,
@@ -750,11 +750,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inovamed",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
     "time": 850,
     "timeDay": 989,
     "timeWeek": 875,
@@ -1026,9 +1026,9 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.43%",
@@ -1038,6 +1038,7 @@
     "timeMonth": 902,
     "timeYear": 1513,
     "dailyMinutesDown": {
+      "2024-04-18": 1,
       "2024-04-15": 23,
       "2024-04-13": 12,
       "2024-04-11": 28,
@@ -1095,8 +1096,7 @@
       "2023-06-27": 13,
       "2023-06-26": 16,
       "2023-06-25": 10,
-      "2023-06-22": 16,
-      "2023-06-20": 18
+      "2023-06-22": 16
     }
   },
   {
