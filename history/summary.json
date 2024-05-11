@@ -4,10 +4,10 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "98.98%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.35%",
     "time": 1811,
@@ -16,6 +16,7 @@
     "timeMonth": 1147,
     "timeYear": 1811,
     "dailyMinutesDown": {
+      "2024-05-11": 3,
       "2024-05-09": 18,
       "2024-05-08": 32,
       "2024-05-07": 17,
@@ -73,8 +74,7 @@
       "2023-06-29": 230,
       "2023-06-27": 15,
       "2023-06-26": 16,
-      "2023-06-25": 10,
-      "2023-06-24": 9
+      "2023-06-25": 10
     }
   },
   {
@@ -225,11 +225,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alterpaint",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 3294,
     "timeDay": 2341,
     "timeWeek": 4061,
@@ -714,7 +714,7 @@
     "timeDay": 662,
     "timeWeek": 811,
     "timeMonth": 1116,
-    "timeYear": 1105,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2024-04-29": 139,
       "2024-04-28": 27,
@@ -1041,9 +1041,9 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.46%",
@@ -1053,6 +1053,7 @@
     "timeMonth": 952,
     "timeYear": 1468,
     "dailyMinutesDown": {
+      "2024-05-11": 1,
       "2024-05-08": 32,
       "2024-05-07": 15,
       "2024-05-06": 17,
@@ -1105,8 +1106,7 @@
       "2023-07-25": 20,
       "2023-07-20": 12,
       "2023-07-18": 399,
-      "2023-07-17": 218,
-      "2023-07-15": 13
+      "2023-07-17": 218
     }
   },
   {
