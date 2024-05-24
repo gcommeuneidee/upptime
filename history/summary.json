@@ -4,11 +4,11 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.55%",
     "time": 1770,
     "timeDay": 887,
@@ -16,6 +16,7 @@
     "timeMonth": 1022,
     "timeYear": 1770,
     "dailyMinutesDown": {
+      "2024-05-24": 1,
       "2024-05-22": 4,
       "2024-05-21": 37,
       "2024-05-19": 17,
@@ -71,7 +72,7 @@
       "2023-09-14": 5,
       "2023-08-20": 17,
       "2023-08-08": 31,
-      "2023-08-04": 140
+      "2023-08-04": 129
     }
   },
   {
@@ -888,12 +889,12 @@
     "slug": "phone-services",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "98.23%",
+    "uptimeDay": "99.27%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.55%",
     "time": 4804,
-    "timeDay": 6208,
+    "timeDay": 7291,
     "timeWeek": 4575,
     "timeMonth": 4116,
     "timeYear": 4810,
@@ -1039,9 +1040,9 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.59%",
@@ -1051,6 +1052,7 @@
     "timeMonth": 857,
     "timeYear": 1433,
     "dailyMinutesDown": {
+      "2024-05-24": 1,
       "2024-05-21": 38,
       "2024-05-19": 17,
       "2024-05-18": 17,
@@ -1103,8 +1105,7 @@
       "2023-10-02": 101,
       "2023-10-01": 132,
       "2023-09-30": 9,
-      "2023-09-20": 20,
-      "2023-09-14": 6
+      "2023-09-20": 20
     }
   },
   {
