@@ -4,9 +4,9 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.55%",
@@ -16,6 +16,7 @@
     "timeMonth": 1004,
     "timeYear": 1766,
     "dailyMinutesDown": {
+      "2024-05-25": 1,
       "2024-05-24": 17,
       "2024-05-22": 4,
       "2024-05-21": 37,
@@ -72,7 +73,7 @@
       "2023-09-14": 5,
       "2023-08-20": 17,
       "2023-08-08": 31,
-      "2023-08-04": 129
+      "2023-08-04": 112
     }
   },
   {
@@ -284,12 +285,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 3170,
     "timeDay": 1042,
     "timeWeek": 996,
     "timeMonth": 973,
-    "timeYear": 2111,
+    "timeYear": 2065,
     "dailyMinutesDown": {
       "2024-04-30": 33,
       "2024-04-29": 53,
@@ -1039,11 +1040,11 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "98.76%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.59%",
     "time": 1431,
     "timeDay": 702,
@@ -1051,6 +1052,7 @@
     "timeMonth": 850,
     "timeYear": 1431,
     "dailyMinutesDown": {
+      "2024-05-25": 1,
       "2024-05-24": 17,
       "2024-05-21": 38,
       "2024-05-19": 17,
@@ -1103,8 +1105,7 @@
       "2023-10-03": 43,
       "2023-10-02": 101,
       "2023-10-01": 132,
-      "2023-09-30": 9,
-      "2023-09-20": 20
+      "2023-09-30": 9
     }
   },
   {
@@ -1144,7 +1145,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "saint-ouen-les-vignes",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
