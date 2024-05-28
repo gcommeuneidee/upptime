@@ -890,19 +890,19 @@
     "url": "$PHONE_SERVICES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "phone-services",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "98.14%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.57%",
-    "time": 5010,
-    "timeDay": 4894,
+    "time": 5008,
+    "timeDay": 5314,
     "timeWeek": 4463,
     "timeMonth": 4182,
     "timeYear": 4821,
     "dailyMinutesDown": {
-      "2024-05-28": 17,
+      "2024-05-28": 18,
       "2024-05-27": 58,
       "2024-05-26": 13,
       "2024-05-25": 6,
@@ -975,8 +975,7 @@
       "2023-12-09": 34,
       "2023-12-08": 11,
       "2023-12-04": 25,
-      "2023-11-24": 18,
-      "2023-11-21": 18
+      "2023-11-24": 18
     }
   },
   {
