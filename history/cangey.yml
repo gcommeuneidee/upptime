@@ -1,7 +1,7 @@
 url: $CANGEY
-status: down
-code: 500
-responseTime: 25735
-lastUpdated: 2024-06-05T07:50:17.622Z
+status: up
+code: 200
+responseTime: 1888
+lastUpdated: 2024-06-05T09:10:53.523Z
 startTime: 2023-02-15T12:40:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
