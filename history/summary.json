@@ -4,10 +4,10 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.74%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.59%",
     "time": 1724,
@@ -16,6 +16,7 @@
     "timeMonth": 1015,
     "timeYear": 1724,
     "dailyMinutesDown": {
+      "2024-06-07": 1,
       "2024-06-05": 14,
       "2024-06-04": 17,
       "2024-06-03": 37,
@@ -78,8 +79,7 @@
       "2023-10-10": 17,
       "2023-10-07": 5,
       "2023-10-03": 43,
-      "2023-10-02": 98,
-      "2023-10-01": 12
+      "2023-10-02": 98
     }
   },
   {
@@ -1050,10 +1050,10 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.09%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.08%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.61%",
     "time": 1402,
@@ -1062,6 +1062,7 @@
     "timeMonth": 816,
     "timeYear": 1385,
     "dailyMinutesDown": {
+      "2024-06-07": 1,
       "2024-06-06": 18,
       "2024-06-05": 64,
       "2024-06-04": 17,
@@ -1119,8 +1120,7 @@
       "2023-10-29": 49,
       "2023-10-28": 264,
       "2023-10-25": 109,
-      "2023-10-16": 32,
-      "2023-10-14": 25
+      "2023-10-16": 32
     }
   },
   {
