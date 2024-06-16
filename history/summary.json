@@ -4,9 +4,9 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.90%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.60%",
@@ -16,6 +16,7 @@
     "timeMonth": 1024,
     "timeYear": 1706,
     "dailyMinutesDown": {
+      "2024-06-16": 1,
       "2024-06-14": 18,
       "2024-06-11": 19,
       "2024-06-10": 19,
@@ -82,8 +83,7 @@
       "2023-10-14": 25,
       "2023-10-11": 22,
       "2023-10-10": 17,
-      "2023-10-07": 5,
-      "2023-10-03": 30
+      "2023-10-07": 5
     }
   },
   {
@@ -629,19 +629,19 @@
     "url": "$DOMAINE_POULAINES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "domaine-de-poulaines",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.95%",
-    "time": 4167,
-    "timeDay": 2677,
-    "timeWeek": 2610,
-    "timeMonth": 2519,
-    "timeYear": 4945,
+    "time": 4169,
+    "timeDay": 2573,
+    "timeWeek": 2592,
+    "timeMonth": 2517,
+    "timeYear": 4939,
     "dailyMinutesDown": {
-      "2024-06-16": 1,
+      "2024-06-16": 23,
       "2024-06-05": 21,
       "2024-05-30": 22,
       "2024-03-12": 12,
@@ -1060,9 +1060,9 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.90%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.62%",
@@ -1072,6 +1072,7 @@
     "timeMonth": 821,
     "timeYear": 1322,
     "dailyMinutesDown": {
+      "2024-06-16": 1,
       "2024-06-14": 18,
       "2024-06-13": 17,
       "2024-06-11": 18,
@@ -1133,8 +1134,7 @@
       "2023-10-31": 64,
       "2023-10-30": 84,
       "2023-10-29": 49,
-      "2023-10-28": 264,
-      "2023-10-25": 13
+      "2023-10-28": 264
     }
   },
   {
