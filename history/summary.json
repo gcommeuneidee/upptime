@@ -4,9 +4,9 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "97.62%",
+    "uptimeDay": "97.54%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.60%",
@@ -16,6 +16,7 @@
     "timeMonth": 1063,
     "timeYear": 1704,
     "dailyMinutesDown": {
+      "2024-06-18": 1,
       "2024-06-17": 34,
       "2024-06-16": 17,
       "2024-06-14": 18,
@@ -81,8 +82,7 @@
       "2023-10-28": 265,
       "2023-10-25": 89,
       "2023-10-16": 12,
-      "2023-10-14": 25,
-      "2023-10-11": 22
+      "2023-10-14": 25
     }
   },
   {
@@ -188,11 +188,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "arapi-universite",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 1090,
     "timeDay": 1104,
     "timeWeek": 960,
@@ -238,11 +238,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alterpaint",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 3249,
     "timeDay": 2413,
     "timeWeek": 2846,
@@ -793,10 +793,10 @@
     "url": "$INOVAMED",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inovamed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 865,
@@ -805,6 +805,7 @@
     "timeMonth": 884,
     "timeYear": 865,
     "dailyMinutesDown": {
+      "2024-06-18": 1,
       "2024-04-08": 338
     }
   },
@@ -1060,18 +1061,19 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 1387,
     "timeDay": 833,
     "timeWeek": 951,
     "timeMonth": 838,
     "timeYear": 1297,
     "dailyMinutesDown": {
+      "2024-06-18": 1,
       "2024-06-17": 17,
       "2024-06-16": 17,
       "2024-06-14": 18,
@@ -1135,7 +1137,7 @@
       "2023-10-31": 64,
       "2023-10-30": 84,
       "2023-10-29": 49,
-      "2023-10-28": 210
+      "2023-10-28": 198
     }
   },
   {
