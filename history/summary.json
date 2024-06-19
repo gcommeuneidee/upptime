@@ -4,19 +4,19 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "83.29%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "98.31%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "96.73%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "99.56%",
     "time": 1699,
-    "timeDay": 797,
+    "timeDay": 870,
     "timeWeek": 1172,
     "timeMonth": 1061,
-    "timeYear": 1699,
+    "timeYear": 1700,
     "dailyMinutesDown": {
-      "2024-06-19": 17,
+      "2024-06-19": 18,
       "2024-06-18": 242,
       "2024-06-17": 34,
       "2024-06-16": 17,
@@ -81,8 +81,7 @@
       "2023-10-30": 106,
       "2023-10-29": 62,
       "2023-10-28": 265,
-      "2023-10-25": 89,
-      "2023-10-16": 12
+      "2023-10-25": 89
     }
   },
   {
@@ -339,7 +338,7 @@
     "timeDay": 1798,
     "timeWeek": 1695,
     "timeMonth": 1896,
-    "timeYear": 2128,
+    "timeYear": 2129,
     "dailyMinutesDown": {
       "2024-06-11": 20,
       "2024-06-03": 14,
@@ -364,7 +363,7 @@
     "timeDay": 892,
     "timeWeek": 1215,
     "timeMonth": 2174,
-    "timeYear": 4108,
+    "timeYear": 4112,
     "dailyMinutesDown": {
       "2024-06-10": 19,
       "2024-06-08": 14,
@@ -455,7 +454,7 @@
     "timeDay": 793,
     "timeWeek": 883,
     "timeMonth": 3000,
-    "timeYear": 2306,
+    "timeYear": 2307,
     "dailyMinutesDown": {
       "2024-06-05": 142,
       "2024-05-24": 9,
@@ -531,7 +530,7 @@
     "timeDay": 730,
     "timeWeek": 849,
     "timeMonth": 2267,
-    "timeYear": 2782,
+    "timeYear": 2784,
     "dailyMinutesDown": {
       "2024-06-14": 14,
       "2024-06-05": 139,
@@ -564,7 +563,7 @@
     "timeDay": 1125,
     "timeWeek": 1185,
     "timeMonth": 2338,
-    "timeYear": 3811,
+    "timeYear": 3816,
     "dailyMinutesDown": {
       "2024-05-17": 16,
       "2024-05-16": 116,
@@ -638,7 +637,7 @@
     "timeDay": 4605,
     "timeWeek": 2791,
     "timeMonth": 2588,
-    "timeYear": 4939,
+    "timeYear": 4938,
     "dailyMinutesDown": {
       "2024-06-16": 23,
       "2024-06-05": 21,
@@ -693,7 +692,7 @@
     "timeDay": 1136,
     "timeWeek": 1309,
     "timeMonth": 1245,
-    "timeYear": 1552,
+    "timeYear": 1547,
     "dailyMinutesDown": {
       "2024-06-05": 13,
       "2024-05-20": 5,
@@ -716,7 +715,7 @@
     "timeDay": 1140,
     "timeWeek": 1182,
     "timeMonth": 1157,
-    "timeYear": 1058,
+    "timeYear": 1057,
     "dailyMinutesDown": {
       "2024-06-06": 22,
       "2024-01-24": 19,
@@ -734,7 +733,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handi-mobile37",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -743,7 +742,7 @@
     "timeDay": 768,
     "timeWeek": 831,
     "timeMonth": 819,
-    "timeYear": 1005,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2024-06-06": 22,
       "2024-05-17": 11,
@@ -822,7 +821,7 @@
     "timeDay": 975,
     "timeWeek": 1141,
     "timeMonth": 1017,
-    "timeYear": 2177,
+    "timeYear": 2175,
     "dailyMinutesDown": {
       "2023-06-28": 5
     }
@@ -921,7 +920,7 @@
     "timeDay": 1119,
     "timeWeek": 1345,
     "timeMonth": 3721,
-    "timeYear": 4790,
+    "timeYear": 4792,
     "dailyMinutesDown": {
       "2024-06-09": 14,
       "2024-06-03": 13,
@@ -1059,19 +1058,19 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "83.34%",
-    "uptimeWeek": "96.75%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "96.74%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "99.58%",
     "time": 1388,
-    "timeDay": 1516,
+    "timeDay": 1940,
     "timeWeek": 1080,
     "timeMonth": 882,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2024-06-19": 17,
+      "2024-06-19": 18,
       "2024-06-18": 242,
       "2024-06-17": 17,
       "2024-06-16": 17,
@@ -1136,7 +1135,7 @@
       "2023-10-31": 64,
       "2023-10-30": 84,
       "2023-10-29": 49,
-      "2023-10-28": 184
+      "2023-10-28": 170
     }
   },
   {
@@ -1184,7 +1183,7 @@
     "timeDay": 746,
     "timeWeek": 904,
     "timeMonth": 848,
-    "timeYear": 1106,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2024-05-22": 106,
       "2023-11-28": 32,
@@ -1210,7 +1209,7 @@
     "timeDay": 929,
     "timeWeek": 955,
     "timeMonth": 955,
-    "timeYear": 1063,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2024-06-05": 24,
       "2024-04-27": 5,
@@ -1236,7 +1235,7 @@
     "timeDay": 2144,
     "timeWeek": 2939,
     "timeMonth": 3005,
-    "timeYear": 2895,
+    "timeYear": 2894,
     "dailyMinutesDown": {
       "2024-06-04": 34,
       "2024-04-21": 14,
@@ -1260,7 +1259,7 @@
     "timeDay": 955,
     "timeWeek": 1063,
     "timeMonth": 987,
-    "timeYear": 1092,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2024-06-11": 15,
       "2024-05-22": 15,
