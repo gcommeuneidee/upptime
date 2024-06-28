@@ -96,6 +96,9 @@ sites:
   - name: Saint-Ouen-les-Vignes
     url: $SAINT_OUEN_LES_VIGNES
     __dangerous__body_down_if_text_missing: 'Saint-Ouen-les-Vignes'
+  - name: Tours Métropole Basket PLL
+    url: $Tours_Metropole_Basket_PLL
+    __dangerous__body_down_if_text_missing: 'Tours Métropole Basket'
   - name: Sennegon
     url: $SENNEGON
     __dangerous__body_down_if_text_missing: 'Sennegon'
