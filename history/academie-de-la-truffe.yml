@@ -1,7 +1,7 @@
 url: $ACADEMIE_TRUFFE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-28T16:46:43.362Z
+status: up
+code: 200
+responseTime: 1434
+lastUpdated: 2024-06-28T17:07:53.789Z
 startTime: 2023-06-19T10:18:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
