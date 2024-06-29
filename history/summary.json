@@ -4,11 +4,11 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.21%",
     "uptimeYear": "99.60%",
     "time": 1675,
     "timeDay": 914,
@@ -16,6 +16,7 @@
     "timeMonth": 1054,
     "timeYear": 1414,
     "dailyMinutesDown": {
+      "2024-06-29": 1,
       "2024-06-28": 59,
       "2024-06-25": 18,
       "2024-06-23": 18,
@@ -85,7 +86,7 @@
       "2023-12-09": 138,
       "2023-10-31": 51,
       "2023-10-30": 106,
-      "2023-10-29": 62
+      "2023-10-29": 31
     }
   },
   {
@@ -919,12 +920,12 @@
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.57%",
     "time": 4764,
     "timeDay": 894,
     "timeWeek": 1163,
-    "timeMonth": 2284,
+    "timeMonth": 2246,
     "timeYear": 4726,
     "dailyMinutesDown": {
       "2024-06-09": 14,
@@ -1059,11 +1060,11 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.61%",
     "time": 1371,
     "timeDay": 707,
@@ -1071,6 +1072,7 @@
     "timeMonth": 895,
     "timeYear": 1201,
     "dailyMinutesDown": {
+      "2024-06-29": 1,
       "2024-06-28": 20,
       "2024-06-27": 12,
       "2024-06-25": 17,
@@ -1140,7 +1142,7 @@
       "2024-02-29": 101,
       "2023-12-09": 138,
       "2023-10-31": 64,
-      "2023-10-30": 56
+      "2023-10-30": 46
     }
   },
   {
@@ -1174,11 +1176,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tours-metropole-basket-pll",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.66%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 913,
     "timeDay": 913,
     "timeWeek": 913,
