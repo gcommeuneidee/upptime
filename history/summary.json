@@ -798,8 +798,7 @@
       "2023-07-20": 12,
       "2023-07-18": 32,
       "2023-07-16": 11,
-      "2023-07-15": 16,
-      "2023-07-12": 10
+      "2023-07-15": 16
     }
   },
   {
@@ -1187,11 +1186,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tours-metropole-basket-pll",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "99.14%",
     "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 3161,
     "timeDay": 14956,
     "timeWeek": 4840,
