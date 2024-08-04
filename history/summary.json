@@ -14,7 +14,7 @@
     "timeDay": 4921,
     "timeWeek": 1612,
     "timeMonth": 1132,
-    "timeYear": 1089,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2024-07-15": 43,
       "2024-07-13": 18,
@@ -380,18 +380,19 @@
     "url": "$BUROTIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "burotic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.67%",
-    "time": 3663,
-    "timeDay": 1286,
+    "time": 3665,
+    "timeDay": 1465,
     "timeWeek": 1170,
-    "timeMonth": 1152,
+    "timeMonth": 1157,
     "timeYear": 3707,
     "dailyMinutesDown": {
+      "2024-08-04": 1,
       "2024-08-03": 22,
       "2024-08-02": 12,
       "2024-08-01": 20,
@@ -469,7 +470,7 @@
       "2023-11-22": 25,
       "2023-11-21": 11,
       "2023-11-20": 20,
-      "2023-11-19": 25
+      "2023-11-19": 20
     }
   },
   {
@@ -747,7 +748,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1774,
     "timeDay": 1812,
     "timeWeek": 1473,
@@ -1114,7 +1115,7 @@
     "timeDay": 1042,
     "timeWeek": 922,
     "timeMonth": 834,
-    "timeYear": 884,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2024-07-15": 24,
       "2024-07-14": 20,
