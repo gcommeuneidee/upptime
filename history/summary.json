@@ -853,19 +853,19 @@
     "url": "$KANYON_CONSULTING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanyon-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2101,
-    "timeDay": 765,
-    "timeWeek": 1088,
-    "timeMonth": 1079,
-    "timeYear": 1590,
+    "time": 2097,
+    "timeDay": 768,
+    "timeWeek": 1049,
+    "timeMonth": 1069,
+    "timeYear": 1588,
     "dailyMinutesDown": {
-      "2024-09-06": 1
+      "2024-09-06": 6
     }
   },
   {
