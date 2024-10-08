@@ -1,7 +1,7 @@
 url: $GARDON_MOLLARD
-status: down
-code: 502
-responseTime: 17712
-lastUpdated: 2024-10-08T23:36:21.545Z
+status: up
+code: 200
+responseTime: 1860
+lastUpdated: 2024-10-08T23:47:27.928Z
 startTime: 2022-11-21T09:45:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
