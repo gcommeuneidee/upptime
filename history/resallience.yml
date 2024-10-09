@@ -1,7 +1,7 @@
 url: $RESALLIENCE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-09T07:35:12.875Z
+status: up
+code: 200
+responseTime: 1309
+lastUpdated: 2024-10-09T07:47:24.107Z
 startTime: 2023-06-05T15:29:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
