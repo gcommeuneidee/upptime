@@ -1,7 +1,7 @@
 url: $MARTIN_FRAUDREAU
-status: up
-code: 200
-responseTime: 703
-lastUpdated: 2024-11-19T23:14:50.940Z
+status: down
+code: 503
+responseTime: 4334
+lastUpdated: 2024-11-20T09:29:47.746Z
 startTime: 2022-11-21T09:45:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
