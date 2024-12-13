@@ -1,7 +1,7 @@
 url: $CHASSEUR_SOUS_MARIN
-status: up
-code: 200
-responseTime: 1334
-lastUpdated: 2024-12-13T05:10:27.413Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-12-13T10:12:29.036Z
 startTime: 2022-11-21T09:45:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
