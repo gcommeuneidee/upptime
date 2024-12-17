@@ -889,10 +889,10 @@
     "url": "$INCLUSION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inclusion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 951,
@@ -901,6 +901,7 @@
     "timeMonth": 887,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2024-12-17": 1,
       "2024-12-02": 24
     }
   },
