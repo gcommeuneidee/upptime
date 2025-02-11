@@ -105,6 +105,9 @@ sites:
   - name: Saint-Ouen-les-Vignes
     url: $SAINT_OUEN_LES_VIGNES
     __dangerous__body_down_if_text_missing: 'Saint-Ouen-les-Vignes'
+  - name: Socom Comparateur
+    url: $SOCOM_COMPARATEUR
+    __dangerous__body_down_if_text_missing: 'Lecomparateur'
   - name: Tours Métropole Basket PLL
     url: $TOURS_METROPOLE_BASKET_PLL
     __dangerous__body_down_if_text_missing: 'Tours Métropole Basket'
