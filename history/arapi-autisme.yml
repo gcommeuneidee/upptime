@@ -1,7 +1,7 @@
 url: $ARAPI_SITE
-status: down
-code: 429
-responseTime: 686
-lastUpdated: 2025-02-16T07:24:19.985Z
+status: up
+code: 200
+responseTime: 7200
+lastUpdated: 2025-02-16T07:31:59.125Z
 startTime: 2024-02-20T14:50:48.913Z
 generator: Upptime <https://github.com/upptime/upptime>
