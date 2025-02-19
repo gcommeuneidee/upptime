@@ -4,10 +4,10 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.63%",
     "time": 1039,
@@ -16,7 +16,7 @@
     "timeMonth": 988,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2025-02-19": 21,
+      "2025-02-19": 23,
       "2025-02-03": 22,
       "2025-01-31": 15,
       "2025-01-30": 21,
@@ -93,8 +93,7 @@
       "2024-04-17": 15,
       "2024-04-15": 23,
       "2024-04-13": 13,
-      "2024-04-11": 29,
-      "2024-04-08": 19
+      "2024-04-11": 29
     }
   },
   {
@@ -125,10 +124,10 @@
     "url": "$AGENCE_CMS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agence-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 1303,
@@ -137,7 +136,7 @@
     "timeMonth": 1331,
     "timeYear": 1325,
     "dailyMinutesDown": {
-      "2025-02-19": 20,
+      "2025-02-19": 21,
       "2025-02-03": 22,
       "2025-01-31": 15,
       "2025-01-30": 21,
@@ -1151,19 +1150,19 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.61%",
-    "time": 917,
+    "time": 918,
     "timeDay": 760,
     "timeWeek": 799,
     "timeMonth": 913,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2025-02-19": 20,
+      "2025-02-19": 21,
       "2025-02-03": 21,
       "2025-01-31": 14,
       "2025-01-30": 20,
@@ -1238,8 +1237,7 @@
       "2024-04-18": 16,
       "2024-04-15": 23,
       "2024-04-13": 12,
-      "2024-04-11": 28,
-      "2024-04-09": 16
+      "2024-04-11": 28
     }
   },
   {
