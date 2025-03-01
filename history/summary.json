@@ -1146,19 +1146,19 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 943,
     "timeDay": 8691,
     "timeWeek": 2218,
     "timeMonth": 1319,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2025-03-01": 69,
+      "2025-03-01": 70,
       "2025-02-26": 15,
       "2025-02-24": 5,
       "2025-02-23": 9,
@@ -1233,8 +1233,7 @@
       "2024-04-30": 50,
       "2024-04-29": 42,
       "2024-04-25": 16,
-      "2024-04-22": 29,
-      "2024-04-20": 17
+      "2024-04-22": 29
     }
   },
   {
