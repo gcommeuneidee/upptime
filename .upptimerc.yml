@@ -39,6 +39,9 @@ sites:
   - name: Cangey
     url: $CANGEY
     __dangerous__body_down_if_text_missing: 'Cangey'
+  - name: Castor
+    url : $CASTOR
+    __dangerous__body_down_if_text_missing: 'Castor'
   - name: Chasseur sous-marin
     url: $CHASSEUR_SOUS_MARIN
     __dangerous__body_down_if_text_missing: 'sous-marine'
