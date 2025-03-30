@@ -1,7 +1,7 @@
 url: $SOCOM_COMPARATEUR
-status: down
-code: 502
-responseTime: 4355
-lastUpdated: 2025-03-30T15:28:30.797Z
+status: up
+code: 200
+responseTime: 1887
+lastUpdated: 2025-03-30T15:36:21.486Z
 startTime: 2025-02-11T13:12:23.900Z
 generator: Upptime <https://github.com/upptime/upptime>
