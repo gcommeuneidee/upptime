@@ -1,7 +1,7 @@
 url: $DEGRAV_AGRI
-status: down
-code: 503
-responseTime: 474
-lastUpdated: 2025-04-03T16:36:11.681Z
+status: up
+code: 200
+responseTime: 1173
+lastUpdated: 2025-04-03T19:22:54.359Z
 startTime: 2023-12-20T13:31:07.776Z
 generator: Upptime <https://github.com/upptime/upptime>
