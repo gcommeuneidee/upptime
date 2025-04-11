@@ -42,6 +42,9 @@ sites:
   - name: Castor
     url : $CASTOR
     __dangerous__body_down_if_text_missing: 'Castor'
+  - name: Céline da Graça Pires
+    url: $CELINE_PIRES
+    __dangerous__body_down_if_text_missing: 'Collaborate'
   - name: Chasseur sous-marin
     url: $CHASSEUR_SOUS_MARIN
     __dangerous__body_down_if_text_missing: 'sous-marine'
@@ -87,6 +90,12 @@ sites:
   - name: Laiterie de Verneuil
     url: $LAITERIE_VERNEUIL
     __dangerous__body_down_if_text_missing: 'Laiterie Verneuil'
+  - name: Leggerini Gravure
+    url: $LEGGERINI_GRAVURE
+    __dangerous__body_down_if_text_missing: 'Leggerini'
+  - name: Le comparateur
+    url: $COMPARATEUR_PHG
+    __dangerous__body_down_if_text_missing: 'comparateur'
   - name: Martin Fraudreau
     url: $MARTIN_FRAUDREAU
     __dangerous__body_down_if_text_missing: 'Martin Fraudreau'
