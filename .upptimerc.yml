@@ -93,9 +93,6 @@ sites:
   - name: Leggerini Gravure
     url: $LEGGERINI_GRAVURE
     __dangerous__body_down_if_text_missing: 'Leggerini'
-  - name: Le comparateur
-    url: $COMPARATEUR_PHG
-    __dangerous__body_down_if_text_missing: 'comparateur'
   - name: Martin Fraudreau
     url: $MARTIN_FRAUDREAU
     __dangerous__body_down_if_text_missing: 'Martin Fraudreau'
