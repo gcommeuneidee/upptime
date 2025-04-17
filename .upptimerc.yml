@@ -33,6 +33,9 @@ sites:
   - name: Beemotion
     url: $BEEMOTION
     __dangerous__body_down_if_text_missing: 'Beemotion'
+  - name: Bureau21
+    url: $BUREAU_21
+    __dangerous__body_down_if_text_missing: 'Bureau 21'
   - name: Burotic
     url: $BUROTIC
     __dangerous__body_down_if_text_missing: 'Burotic'
