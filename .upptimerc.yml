@@ -105,6 +105,9 @@ sites:
   - name: Phone Services
     url: $PHONE_SERVICES
     __dangerous__body_down_if_text_missing: 'Phone Services'
+  - name: PAM Conseil
+    url: $PAM_CONSEIL
+    __dangerous__body_down_if_text_missing: 'PAM Conseil'
   - name: RDV Internet
     url: $RDVINTERNET
     __dangerous__body_down_if_text_missing: 'RDV Internet'
