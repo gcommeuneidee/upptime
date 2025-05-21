@@ -126,9 +126,6 @@ sites:
   - name: Tours Métropole Basket PLL
     url: $TOURS_METROPOLE_BASKET_PLL
     __dangerous__body_down_if_text_missing: 'Tours Métropole Basket'
-  - name: Sennegon
-    url: $SENNEGON
-    __dangerous__body_down_if_text_missing: 'Sennegon'
   - name: Weser
     url: $WESER
     __dangerous__body_down_if_text_missing: 'Weser'
