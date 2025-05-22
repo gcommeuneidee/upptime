@@ -1,7 +1,7 @@
 url: $ACTIONNAIRES
-status: down
-code: 418
-responseTime: 433
-lastUpdated: 2025-05-22T15:48:50.242Z
+status: up
+code: 200
+responseTime: 793
+lastUpdated: 2025-05-22T16:13:07.771Z
 startTime: 2024-03-07T12:52:41.625Z
 generator: Upptime <https://github.com/upptime/upptime>
