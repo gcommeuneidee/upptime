@@ -1,7 +1,7 @@
 url: $CASTOR
-status: down
-code: 418
-responseTime: 468
-lastUpdated: 2025-05-23T08:02:22.213Z
+status: up
+code: 200
+responseTime: 519
+lastUpdated: 2025-05-23T08:53:28.513Z
 startTime: 2025-03-11T09:43:26.270Z
 generator: Upptime <https://github.com/upptime/upptime>
