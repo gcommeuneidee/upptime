@@ -6,9 +6,6 @@ sites:
   - name: Académie de la Truffe
     url : $ACADEMIE_TRUFFE
     __dangerous__body_down_if_text_missing: 'Académie de la Truffe'
-  - name: Actionnaires
-    url : $ACTIONNAIRES
-    __dangerous__body_down_if_text_missing: 'Site des actionnaires'
   - name: Agence CMS
     url: $AGENCE_CMS
     __dangerous__body_down_if_text_missing: 'Agence CMS'
@@ -42,9 +39,6 @@ sites:
   - name: Cangey
     url: $CANGEY
     __dangerous__body_down_if_text_missing: 'Cangey'
-  - name: Castor
-    url : $CASTOR
-    __dangerous__body_down_if_text_missing: 'Castor'
   - name: Céline da Graça Pires
     url: $CELINE_PIRES
     __dangerous__body_down_if_text_missing: 'Collaborate'
