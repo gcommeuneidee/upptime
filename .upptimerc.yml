@@ -51,6 +51,9 @@ sites:
   - name: Convergens
     url: $CONVERGENS
     __dangerous__body_down_if_text_missing: 'Accueil - Convergens'
+  - name: Copelva
+    url: $COPELVA
+    __dangerous__body_down_if_text_missing: 'Copelva'
   - name: Devin Collection
     url: $DEVIN_COLLECTION
     __dangerous__body_down_if_text_missing: 'Devin Collection'
