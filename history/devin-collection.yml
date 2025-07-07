@@ -1,7 +1,7 @@
 url: $DEVIN_COLLECTION
-status: down
-code: 522
-responseTime: 19625
-lastUpdated: 2025-07-07T12:24:09.247Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2025-07-07T13:06:20.905Z
 startTime: 2024-07-15T12:23:03.766Z
 generator: Upptime <https://github.com/upptime/upptime>
