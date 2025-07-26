@@ -1,7 +1,7 @@
 url: $COPELVA
-status: down
-code: 421
-responseTime: 1025
-lastUpdated: 2025-07-26T04:28:34.934Z
+status: up
+code: 200
+responseTime: 1615
+lastUpdated: 2025-07-26T04:55:58.941Z
 startTime: 2025-06-24T14:07:42.853Z
 generator: Upptime <https://github.com/upptime/upptime>
