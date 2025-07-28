@@ -93,6 +93,9 @@ sites:
   - name: Martin Fraudreau
     url: $MARTIN_FRAUDREAU
     __dangerous__body_down_if_text_missing: 'Martin Fraudreau'
+  - name: Nudjy
+    url: $NUDJY
+    __dangerous__body_down_if_text_missing: 'Nudjy'
   - name: Numaterra
     url: $NUMATERRA
     __dangerous__body_down_if_text_missing: 'Numaterra'
