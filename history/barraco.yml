@@ -1,7 +1,7 @@
 url: $BARRACO
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-08T16:40:28.776Z
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2025-08-08T16:53:02.634Z
 startTime: 2022-11-21T09:45:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
