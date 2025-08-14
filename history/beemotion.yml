@@ -1,7 +1,7 @@
 url: $BEEMOTION
-status: up
-code: 200
-responseTime: 1582
-lastUpdated: 2025-08-13T23:16:01.110Z
+status: down
+code: 503
+responseTime: 485
+lastUpdated: 2025-08-14T22:32:36.116Z
 startTime: 2022-11-21T09:45:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
