@@ -1,7 +1,7 @@
 url: $SAINT_OUEN_LES_VIGNES
-status: up
-code: 200
-responseTime: 729
-lastUpdated: 2025-08-25T23:15:43.614Z
+status: down
+code: 503
+responseTime: 605
+lastUpdated: 2025-08-26T02:27:18.402Z
 startTime: 2022-11-21T09:45:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
