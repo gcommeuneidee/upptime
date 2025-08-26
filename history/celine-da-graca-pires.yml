@@ -1,7 +1,7 @@
 url: $CELINE_PIRES
-status: up
-code: 200
-responseTime: 701
-lastUpdated: 2025-08-25T23:15:13.959Z
+status: down
+code: 503
+responseTime: 560
+lastUpdated: 2025-08-26T02:26:27.475Z
 startTime: 2025-04-11T15:10:45.127Z
 generator: Upptime <https://github.com/upptime/upptime>
