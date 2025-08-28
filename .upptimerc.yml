@@ -54,6 +54,9 @@ sites:
   - name: Copelva
     url: $COPELVA
     __dangerous__body_down_if_text_missing: 'Copelva'
+  - name: Degrav'Agri
+    url: $DEGRAV_AGRI
+    __dangerous__body_down_if_text_missing: 'Degrav&#039;Agri'
   - name: Devin Collection
     url: $DEVIN_COLLECTION
     __dangerous__body_down_if_text_missing: 'Devin Collection'
