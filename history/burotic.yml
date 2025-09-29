@@ -1,7 +1,7 @@
 url: $BUROTIC
-status: down
-code: 503
-responseTime: 875
-lastUpdated: 2025-09-29T20:36:31.963Z
+status: up
+code: 200
+responseTime: 1120
+lastUpdated: 2025-09-29T20:46:48.254Z
 startTime: 2022-11-21T09:45:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
