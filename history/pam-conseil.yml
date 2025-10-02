@@ -1,7 +1,7 @@
 url: $PAM_CONSEIL
-status: down
-code: 503
-responseTime: 410
-lastUpdated: 2025-10-02T20:11:19.981Z
+status: up
+code: 200
+responseTime: 1768
+lastUpdated: 2025-10-02T20:30:42.933Z
 startTime: 2025-05-07T12:27:49.960Z
 generator: Upptime <https://github.com/upptime/upptime>
