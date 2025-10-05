@@ -1,7 +1,7 @@
 url: $G_COMME_UNE_IDEE
-status: up
-code: 200
-responseTime: 1124
-lastUpdated: 2025-10-04T23:13:37.701Z
+status: down
+code: 503
+responseTime: 636
+lastUpdated: 2025-10-05T03:24:08.809Z
 startTime: 2022-11-21T09:45:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
