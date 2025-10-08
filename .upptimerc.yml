@@ -45,9 +45,6 @@ sites:
   - name: Chasseur sous-marin
     url: $CHASSEUR_SOUS_MARIN
     __dangerous__body_down_if_text_missing: 'sous-marine'
-  - name: Comité Handisport
-    url: $COMITE_HANDISPORT
-    __dangerous__body_down_if_text_missing: 'Handisport'
   - name: Convergens
     url: $CONVERGENS
     __dangerous__body_down_if_text_missing: 'Accueil - Convergens'
@@ -93,9 +90,6 @@ sites:
   - name: Leggerini Gravure
     url: $LEGGERINI_GRAVURE
     __dangerous__body_down_if_text_missing: 'Leggerini'
-  - name: Martin Fraudreau
-    url: $MARTIN_FRAUDREAU
-    __dangerous__body_down_if_text_missing: 'Martin Fraudreau'
   - name: Nudjy
     url: $NUDJY
     __dangerous__body_down_if_text_missing: 'Nudjy'
