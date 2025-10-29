@@ -1,7 +1,7 @@
 url: $KANYON_CONSULTING
-status: down
-code: 404
-responseTime: 657
-lastUpdated: 2025-10-29T21:09:42.317Z
+status: up
+code: 200
+responseTime: 1061
+lastUpdated: 2025-10-29T21:27:29.345Z
 startTime: 2023-03-07T10:16:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
