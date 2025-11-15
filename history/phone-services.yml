@@ -1,7 +1,7 @@
 url: $PHONE_SERVICES
-status: down
-code: 503
-responseTime: 985
-lastUpdated: 2025-11-15T08:51:06.758Z
+status: up
+code: 200
+responseTime: 1673
+lastUpdated: 2025-11-15T09:10:37.954Z
 startTime: 2022-11-21T09:45:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
