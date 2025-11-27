@@ -1,7 +1,7 @@
 url: $ALTERPAINT
-status: up
-code: 200
-responseTime: 1264
-lastUpdated: 2025-11-27T03:59:01.469Z
+status: down
+code: 503
+responseTime: 781
+lastUpdated: 2025-11-27T19:46:49.126Z
 startTime: 2024-02-01T09:09:44.476Z
 generator: Upptime <https://github.com/upptime/upptime>
