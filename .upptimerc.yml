@@ -33,9 +33,6 @@ sites:
   - name: Bureau21
     url: $BUREAU_21
     __dangerous__body_down_if_text_missing: 'Bureau 21'
-  - name: Burotic
-    url: $BUROTIC
-    __dangerous__body_down_if_text_missing: 'Burotic'
   - name: Cangey
     url: $CANGEY
     __dangerous__body_down_if_text_missing: 'Cangey'
@@ -96,9 +93,6 @@ sites:
   - name: Numaterra
     url: $NUMATERRA
     __dangerous__body_down_if_text_missing: 'Numaterra'
-  - name: Phone Services
-    url: $PHONE_SERVICES
-    __dangerous__body_down_if_text_missing: 'Phone Services'
   - name: PAM Conseil
     url: $PAM_CONSEIL
     __dangerous__body_down_if_text_missing: 'PAM Conseil'
