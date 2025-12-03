@@ -153,18 +153,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "arapi-gestion",
     "status": "down",
-    "uptime": "99.72%",
+    "uptime": "99.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.00%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "99.54%",
+    "uptimeWeek": "78.79%",
+    "uptimeMonth": "94.66%",
+    "uptimeYear": "99.51%",
     "time": 680,
     "timeDay": 156,
     "timeWeek": 520,
     "timeMonth": 615,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-12-02": 1428,
+      "2025-12-03": 110,
+      "2025-12-02": 1440,
       "2025-12-01": 588,
       "2025-11-24": 21,
       "2025-11-18": 56,
@@ -292,8 +293,7 @@
       "2025-06-01": 19,
       "2025-02-28": 28,
       "2025-02-08": 9,
-      "2024-12-12": 14,
-      "2024-12-03": 8
+      "2024-12-12": 14
     }
   },
   {
@@ -302,18 +302,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "barraco",
     "status": "down",
-    "uptime": "90.51%",
+    "uptime": "90.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.40%",
+    "uptimeYear": "71.38%",
     "time": 699,
     "timeDay": 66,
     "timeWeek": 137,
     "timeMonth": 166,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2025-12-02": 1428,
+      "2025-12-03": 111,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -614,8 +615,7 @@
       "2024-12-07": 15,
       "2024-12-06": 50,
       "2024-12-05": 40,
-      "2024-12-04": 19,
-      "2024-12-03": 12
+      "2024-12-04": 19
     }
   },
   {
