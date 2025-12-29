@@ -24,6 +24,9 @@ sites:
   - name: Alterpaint
     url: $ALTERPAINT
     __dangerous__body_down_if_text_missing: 'Alterpaint'
+  - name: Aventa
+    url: $AVENTA
+    __dangerous__body_down_if_text_missing: 'Aventa'
   - name: Barraco
     url: $BARRACO
     __dangerous__body_down_if_text_missing: 'Barraco'
@@ -81,12 +84,18 @@ sites:
   - name: Kanyon Consulting
     url: $KANYON_CONSULTING
     __dangerous__body_down_if_text_missing: 'Kanyon Consulting'
+  - name: Kraken Subsea
+    url: $KRAKEN
+    __dangerous__body_down_if_text_missing: 'Kraken'
   - name: Laiterie de Verneuil
     url: $LAITERIE_VERNEUIL
     __dangerous__body_down_if_text_missing: 'Laiterie Verneuil'
   - name: Leggerini Gravure
     url: $LEGGERINI_GRAVURE
     __dangerous__body_down_if_text_missing: 'Leggerini'
+  - name: Nerio
+    url: $NERIO
+    __dangerous__body_down_if_text_missing: 'Nerio'
   - name: Nudjy
     url: $NUDJY
     __dangerous__body_down_if_text_missing: 'Nudjy'
