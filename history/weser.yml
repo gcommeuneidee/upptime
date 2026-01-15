@@ -1,7 +1,7 @@
 url: $WESER
-status: down
-code: 503
-responseTime: 777
-lastUpdated: 2026-01-15T10:14:08.824Z
+status: up
+code: 200
+responseTime: 637
+lastUpdated: 2026-01-15T15:42:59.749Z
 startTime: 2022-11-21T09:46:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
