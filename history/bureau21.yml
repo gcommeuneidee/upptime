@@ -1,7 +1,7 @@
 url: $BUREAU_21
-status: up
-code: 200
-responseTime: 1178
-lastUpdated: 2026-01-15T23:17:56.923Z
+status: down
+code: 503
+responseTime: 418
+lastUpdated: 2026-01-16T19:28:23.788Z
 startTime: 2025-04-17T09:19:36.087Z
 generator: Upptime <https://github.com/upptime/upptime>
