@@ -1,7 +1,7 @@
 url: $AVENTA
-status: up
-code: 200
-responseTime: 1586
-lastUpdated: 2026-02-01T23:20:52.101Z
+status: down
+code: 503
+responseTime: 1079
+lastUpdated: 2026-02-02T18:30:09.628Z
 startTime: 2026-01-15T08:41:48.674Z
 generator: Upptime <https://github.com/upptime/upptime>
