@@ -75,9 +75,6 @@ sites:
   - name: HandiMobile37
     url: $HANDIMOBILE
     __dangerous__body_down_if_text_missing: 'Handi Mobile'
-  - name: Inclusion
-    url: $INCLUSION
-    __dangerous__body_down_if_text_missing: 'Inclusion'
   - name: Inovamed
     url: $INOVAMED
     __dangerous__body_down_if_text_missing: 'Inovamed'
