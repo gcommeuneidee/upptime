@@ -1,7 +1,7 @@
 url: $GEOCEAN
-status: up
-code: 200
-responseTime: 1777
-lastUpdated: 2026-02-04T05:00:25.464Z
+status: down
+code: 500
+responseTime: 767
+lastUpdated: 2026-02-04T12:34:38.546Z
 startTime: 2024-09-25T08:07:13.050Z
 generator: Upptime <https://github.com/upptime/upptime>
