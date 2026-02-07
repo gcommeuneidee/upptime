@@ -1,7 +1,7 @@
 url: $TOURS_METROPOLE_BASKET_PLL
-status: down
-code: 503
-responseTime: 732
-lastUpdated: 2026-02-07T23:19:27.640Z
+status: up
+code: 200
+responseTime: 1746
+lastUpdated: 2026-02-07T23:26:37.666Z
 startTime: 2024-06-28T15:01:09.936Z
 generator: Upptime <https://github.com/upptime/upptime>
