@@ -27,9 +27,9 @@ sites:
   - name: Aventa
     url: $AVENTA
     __dangerous__body_down_if_text_missing: 'Aventa'
-  - name: Barraco
-    url: $BARRACO
-    __dangerous__body_down_if_text_missing: 'Barraco'
+  # - name: Barraco
+  #   url: $BARRACO
+  #   __dangerous__body_down_if_text_missing: 'Barraco'
   - name: Beemotion
     url: $BEEMOTION
     __dangerous__body_down_if_text_missing: 'Beemotion'
@@ -99,9 +99,9 @@ sites:
   - name: Numaterra
     url: $NUMATERRA
     __dangerous__body_down_if_text_missing: 'Numaterra'
-  - name: PAM Conseil
-    url: $PAM_CONSEIL
-    __dangerous__body_down_if_text_missing: 'PAM Conseil'
+  # - name: PAM Conseil
+  #   url: $PAM_CONSEIL
+  #   __dangerous__body_down_if_text_missing: 'PAM Conseil'
   - name: RDV Internet
     url: $RDVINTERNET
     __dangerous__body_down_if_text_missing: 'RDV Internet'
@@ -114,18 +114,18 @@ sites:
   - name: Saint-Ouen-les-Vignes
     url: $SAINT_OUEN_LES_VIGNES
     __dangerous__body_down_if_text_missing: 'Saint-Ouen-les-Vignes'
-  - name: Socom Comparateur
-    url: $SOCOM_COMPARATEUR
-    __dangerous__body_down_if_text_missing: 'Lecomparateur'
+  # - name: Socom Comparateur
+  #   url: $SOCOM_COMPARATEUR
+  #   __dangerous__body_down_if_text_missing: 'Lecomparateur'
   - name: Tours Métropole Basket PLL
     url: $TOURS_METROPOLE_BASKET_PLL
     __dangerous__body_down_if_text_missing: 'Tours Métropole Basket'
   - name: Weser
     url: $WESER
     __dangerous__body_down_if_text_missing: 'Weser'
-  - name: Yona Design
-    url: $YONA_DESIGN
-    __dangerous__body_down_if_text_missing: 'Yona Design'
+  # - name: Yona Design
+  #   url: $YONA_DESIGN
+  #   __dangerous__body_down_if_text_missing: 'Yona Design'
 
 status-website:
   baseUrl: /upptime
