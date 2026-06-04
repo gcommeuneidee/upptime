@@ -4,13 +4,13 @@
     "url": "$ACADEMIE_TRUFFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academie-de-la-truffe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
-    "time": 1132,
+    "time": 1133,
     "timeDay": 917,
     "timeWeek": 992,
     "timeMonth": 992,
@@ -34,7 +34,8 @@
       "2026-01-29": 32,
       "2026-02-02": 58,
       "2026-02-03": 129,
-      "2026-02-11": 49
+      "2026-02-11": 49,
+      "2026-06-04": 8
     }
   },
   {
@@ -43,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agence-cms",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "84.71%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.91%",
+    "uptimeDay": "74.33%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.84%",
     "time": 1324,
     "timeDay": 569,
     "timeWeek": 976,
@@ -69,7 +70,7 @@
       "2026-01-23": 25,
       "2026-01-25": 23,
       "2026-01-29": 31,
-      "2026-06-04": 220
+      "2026-06-04": 370
     }
   },
   {
@@ -115,11 +116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "arapi-gestion",
     "status": "down",
-    "uptime": "77.83%",
+    "uptime": "77.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.37%",
+    "uptimeYear": "49.34%",
     "time": 569,
     "timeDay": 616,
     "timeWeek": 646,
@@ -134,7 +135,7 @@
       "2025-11-15": 7,
       "2025-11-18": 56,
       "2025-11-24": 21,
-      "2026-06-04": 248,
+      "2026-06-04": 397,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -384,11 +385,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alterpaint",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "84.74%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.31%",
+    "uptime": "99.69%",
+    "uptimeDay": "74.35%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.28%",
     "time": 1146,
     "timeDay": 375,
     "timeWeek": 992,
@@ -440,7 +441,7 @@
       "2026-02-12": 63,
       "2026-02-13": 116,
       "2026-02-14": 46,
-      "2026-06-04": 220
+      "2026-06-04": 369
     }
   },
   {
@@ -449,11 +450,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aventa",
     "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "84.75%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "98.91%",
+    "uptime": "98.84%",
+    "uptimeDay": "74.36%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "98.84%",
     "time": 1212,
     "timeDay": 376,
     "timeWeek": 965,
@@ -485,7 +486,7 @@
       "2026-02-12": 63,
       "2026-02-13": 116,
       "2026-02-14": 46,
-      "2026-06-04": 220
+      "2026-06-04": 369
     }
   },
   {
@@ -526,11 +527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bureau21",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "84.77%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.31%",
+    "uptime": "99.36%",
+    "uptimeDay": "74.38%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.28%",
     "time": 911,
     "timeDay": 609,
     "timeWeek": 1165,
@@ -582,7 +583,7 @@
       "2026-02-12": 63,
       "2026-02-13": 116,
       "2026-02-14": 46,
-      "2026-06-04": 219
+      "2026-06-04": 369
     }
   },
   {
@@ -842,10 +843,10 @@
     "slug": "g-comme-une-idee",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "84.77%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "74.38%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.28%",
     "time": 862,
     "timeDay": 375,
     "timeWeek": 662,
@@ -898,7 +899,7 @@
       "2026-02-12": 63,
       "2026-02-13": 116,
       "2026-02-14": 46,
-      "2026-06-04": 219
+      "2026-06-04": 369
     }
   },
   {
@@ -1061,11 +1062,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inovamed",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "84.78%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.31%",
+    "uptime": "99.66%",
+    "uptimeDay": "74.38%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.28%",
     "time": 893,
     "timeDay": 510,
     "timeWeek": 966,
@@ -1118,7 +1119,7 @@
       "2026-02-12": 63,
       "2026-02-13": 116,
       "2026-02-14": 46,
-      "2026-06-04": 219
+      "2026-06-04": 369
     }
   },
   {
@@ -1387,10 +1388,10 @@
     "url": "$RESTAURANT_LES_JARDINIERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "restaurant-les-jardiniers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1088,
@@ -1417,7 +1418,8 @@
       "2026-02-02": 58,
       "2026-02-03": 129,
       "2026-02-07": 57,
-      "2026-02-11": 49
+      "2026-02-11": 49,
+      "2026-06-04": 2
     }
   },
   {
@@ -1451,11 +1453,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tours-metropole-basket-pll",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "84.78%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.31%",
+    "uptime": "99.63%",
+    "uptimeDay": "74.39%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.28%",
     "time": 1509,
     "timeDay": 418,
     "timeWeek": 1765,
@@ -1506,7 +1508,7 @@
       "2026-02-12": 63,
       "2026-02-13": 116,
       "2026-02-14": 46,
-      "2026-06-04": 219
+      "2026-06-04": 369
     }
   },
   {
