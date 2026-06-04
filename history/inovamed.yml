@@ -1,7 +1,7 @@
 url: $INOVAMED
-status: down
-code: 503
-responseTime: 510
-lastUpdated: 2026-06-04T00:29:26.146Z
+status: up
+code: 200
+responseTime: 725
+lastUpdated: 2026-06-04T16:40:08.882Z
 startTime: 2024-04-08T08:53:42.900Z
 generator: Upptime <https://github.com/upptime/upptime>
