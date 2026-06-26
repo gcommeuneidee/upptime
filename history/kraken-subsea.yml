@@ -1,7 +1,7 @@
 url: $KRAKEN
-status: down
-code: 503
-responseTime: 548
-lastUpdated: 2026-06-26T11:39:14.392Z
+status: up
+code: 200
+responseTime: 1437
+lastUpdated: 2026-06-26T13:50:54.269Z
 startTime: 2026-01-15T08:42:15.363Z
 generator: Upptime <https://github.com/upptime/upptime>
