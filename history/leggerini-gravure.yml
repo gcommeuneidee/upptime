@@ -1,7 +1,7 @@
 url: $LEGGERINI_GRAVURE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-03T22:32:50.596Z
+status: up
+code: 200
+responseTime: 959
+lastUpdated: 2026-07-03T22:56:29.233Z
 startTime: 2025-04-11T15:11:01.512Z
 generator: Upptime <https://github.com/upptime/upptime>
