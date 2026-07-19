@@ -177,7 +177,7 @@
       "2025-11-15": 7,
       "2025-11-18": 56,
       "2025-11-24": 21,
-      "2026-07-18": 1434,
+      "2026-07-18": 1439,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -1098,15 +1098,15 @@
     "url": "$GEOCEAN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geocean",
-    "status": "down",
+    "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "82.82%",
-    "uptimeWeek": "89.31%",
-    "uptimeMonth": "82.05%",
+    "uptimeDay": "82.59%",
+    "uptimeWeek": "89.28%",
+    "uptimeMonth": "82.04%",
     "uptimeYear": "97.61%",
-    "time": 1880,
-    "timeDay": 1804,
-    "timeWeek": 2054,
+    "time": 1881,
+    "timeDay": 1861,
+    "timeWeek": 2049,
     "timeMonth": 1971,
     "timeYear": 1912,
     "dailyMinutesDown": {
@@ -1164,7 +1164,7 @@
       "2026-07-14": 229,
       "2026-07-15": 67,
       "2026-07-16": 136,
-      "2026-07-18": 248
+      "2026-07-18": 251
     }
   },
   {
